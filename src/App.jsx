@@ -9,7 +9,6 @@ function App() {
 
   function handleSelect(selectedButton) {
     setSelectedTopic(selectedButton);
-    console.log(selectedTopic);
   }
 
   return (
